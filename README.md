@@ -7,14 +7,14 @@ This is the official repository of the following paper: "**Achieving Fairness Th
 pip install -r requirements.txt
 ```
 
-### Calculate Sensitive Channels
+### Calculate sensitive channels
 To get sensitive channels, run: 
 ```
 python SNNL.py
 ```
 remember to input your own pre-trained CNN model at ```line #379```.
 
-### Prune and Fine-Tune the Model
+### Prune and fine-tune the model
 Using ```train_cnn.py``` to train and fine-tune your own model to achieve better fairness.
 ```
 python train_cnn.py
