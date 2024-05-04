@@ -1,6 +1,6 @@
 # Sensitive-Channel-Pruning
 
-This is the official repository of the following paper: Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis
+This is the official repository of the following paper: "\textit{Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis}"
 
 ### Environment setup
 ```
