@@ -1,6 +1,6 @@
 # Sensitive-Channel-Pruning
 
-This is the official repository of the following paper: "**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**" in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), 2024 (early accept, acceptance rate 11%)
+This is the official repository of the following paper: ["**Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis**"](https://arxiv.org/abs/2405.08681) in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), 2024 (early accept, acceptance rate 11%)
 
 ### Environment setup
 ```
