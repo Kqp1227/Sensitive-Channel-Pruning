@@ -30,10 +30,12 @@ You can repeat ```step 1-2``` for several times (until the stopping criteria are
 ### Citation
 If it is helpful to you, please cite our work:
 ```
-@article{kong2024achieving,
+@inproceedings{kong2024achieving,
   title={Achieving Fairness Through Channel Pruning for Dermatological Disease Diagnosis},
-  author={Kong, Qingpeng and Chiu, Ching-Hao and Zeng, Dewen and Chen, Yu-Jen and Ho, Tsung-Yi and Shi, Yiyu and others},
-  journal={arXiv preprint arXiv:2405.08681},
-  year={2024}
+  author={Kong, Qingpeng and Chiu, Ching-Hao and Zeng, Dewen and Chen, Yu-Jen and Ho, Tsung-Yi and Hu, Jingtong and Shi, Yiyu},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={24--34},
+  year={2024},
+  organization={Springer}
 }
 ```
